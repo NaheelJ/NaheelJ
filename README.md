@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Naheel J
 
-Flutter Developer | Mobile & Cloud Specialist  
+**Flutter Developer | Mobile & Cloud Specialist**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaheelJ&color=blueviolet&style=flat)
 
 ---
 
 ## 💼 Summary
-Flutter Developer with **1.5+ years experience** building **production apps used by thousands**.
+Flutter Developer with **1.5+ years of experience** building **production-grade applications used by thousands**.
 
 - Built systems handling **10,000+ concurrent users**
 - Strong in **Flutter, Firebase, Node.js, GCP**
@@ -22,7 +22,7 @@ Flutter Developer with **1.5+ years experience** building **production apps used
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-7B1FA2?style=flat)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
@@ -33,19 +33,18 @@ Flutter Developer with **1.5+ years experience** building **production apps used
 
 ## 🚀 Key Work
 
-- 🗳️ Election Platform — handled **10K+ concurrent users**
-- 🚖 Goyn — ride booking with live tracking & payments
-- 🏛️ Governance App — deployed in **50+ wards**
-- 🏗️ Construction App — real-time project tracking
+- 🗳️ **Election Platform** — handled **10K+ concurrent users**
+- 🚖 **Goyn** — ride booking with live tracking & payments
+- 🏛️ **Governance App** — deployed in **50+ wards**
+- 🏗️ **Construction App** — real-time project tracking
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaheelJ&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NaheelJ&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=NaheelJ&theme=tokyonight&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NaheelJ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -53,21 +52,19 @@ Flutter Developer with **1.5+ years experience** building **production apps used
 
 If you find my work useful:
 
-<a href="https://www.buymeacoffee.com/naheelj">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="45" />
-</a>
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/naheelj)
 
 ---
 
 ## 💼 Experience
 
 **Software Developer — Spinecodes**
-- Built 5+ production applications
-- Owned modules end-to-end
+- Built **5+ production applications**
+- Owned modules **end-to-end**
 
 ---
 
 ## 📫 Contact
 
-Email: naheeljakkeeri@gmail.com  
-LinkedIn: https://linkedin.com/in/naheel-j-90a0a9285  
+📧 Email: naheeljakkeeri@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/naheel-j-90a0a9285  
