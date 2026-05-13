@@ -2,8 +2,6 @@
 
 Flutter Developer | Mobile & Cloud Specialist  
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaheelJ&color=blueviolet&style=flat)
-
 ---
 
 ## 💼 Summary
