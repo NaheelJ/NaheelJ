@@ -33,7 +33,7 @@ Flutter Developer with **1.5+ years experience** building **production apps used
 
 - 🗳️ Election Platform — handled **10K+ concurrent users**
 - 🚖 Goyn — ride booking with live tracking & payments
-- 🏛️ Governance App — deployed in **50+ wards**
+- 🏛️ Governance App — deployed in **5k+ wards**
 - 🏗️ Construction App — real-time project tracking
 
 ---
