@@ -66,6 +66,3 @@ If you find my work useful:
 
 Email: naheeljakkeeri@gmail.com  
 LinkedIn: https://linkedin.com/in/naheel-j-90a0a9285  
-
-
-make this fully correct
