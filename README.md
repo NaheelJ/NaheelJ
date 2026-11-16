@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=200&section=header&text=Naheel%20J&fontSize=60&fontColor=ffffff&desc=Flutter%20Developer%20-%20Mobile%20and%20Cloud&descSize=20" width="100%" />
+<img src="h<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0175C2&height=220&section=header&text=Naheel%20J&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20-%20Mobile%20and%20Cloud&descSize=20&descAlignY=60" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0175C2&center=true&vCenter=true&width=650&lines=Building+production+apps+used+by+thousands;10%2C000%2B+concurrent+users+and+500%2B+wards+served;Flutter+%7C+Firebase+%7C+Node.js+%7C+GCP+%7C+App+Security" alt="Typing SVG" />
